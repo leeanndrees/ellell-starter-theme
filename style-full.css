@@ -3,7 +3,7 @@ Theme Name: Starter Theme
 Description: A bare-bones custom theme for breaking, fixing, & learning.
 Author: ellell & co.
 Author URI: http://ellell.co
-Version: 1.0
+Version: 1.2
 */
 
 /*
@@ -21,46 +21,55 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Taviraj', serif;
 */
 
-.site-header, .site-footer {
-  background-color: #eee;
+.site-header {
+  background-image: url("img/upfeathers.png");
+}
+
+.site-footer {
+  background-color: #378C83;
+}
+
+.site-footer a {
+  color:#fff;
 }
 
 /* Typography */
 body {
   font-family: 'Raleway', sans-serif;
   color: #432210;
-  font-size: 1.5em;
+  font-size: 1.8em;
 }
 
 p {
-  line-height: 2em;
+  line-height: 2.2em;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Taviraj', serif;
+  margin-top:30px;
 }
 
 h1, h1 a, h1 a:hover, h1 a:active, h1 a:focus {
-  font-size: 2.55em;
+  font-size: 2em;
   color: #432210;
   font-weight: normal;
   text-decoration: none;
 }
 
 h2, h2 a {
-  font-size: 2.3em;
+  font-size: 1.8em;
   color: #DBA23F;
   font-weight: normal;
 }
 
 h3, h3 a {
-  font-size: 2.3em;
+  font-size: 1.6em;
   color: #378C83;
   font-weight: normal;
 }
 
 h4, h5, h6 {
-  font-size: 1.6em;
+  font-size: 1.3em;
 }
 
 h4, h4 a {
@@ -82,7 +91,6 @@ h6, h6 a {
 
 /* Background */
 body {
-  background-image: url("img/upfeathers.png");
   background-attachment: fixed;
 }
 
@@ -109,8 +117,12 @@ button:focus, html input[type=button]:focus, input[type=reset]:focus, input[type
 }
 
 /* Sidebar */
-li.widget {
+.widget ul { 
+margin: 10px 0;
+padding: 0;}
+.widget li {
     list-style: none;
+    margin: 20px 0;
 }
 
 .widgettitle {
@@ -124,17 +136,22 @@ li.widget {
   padding-left: 0;
 }
 
-.main-menu ul li {
+.main-menu ul li a{
+  color:#fff;
   list-style: none;
   display: inline-block;
-  padding: .5em;
+  padding: .3em 1em;
+  margin: .5em;
+  background-color: #378C83;
+}
+
+.main-menu ul li a:hover {
+  background-color: #6BC5AF;
+  text-decoration:none;
+}
+
+.main-menu ul li a {
+  color:#fff;
 }
 
 /* Content */
-.post, .page-content, .post-single {
-  background-color: rgba(255, 255, 255, .7);
-  padding: 1em;
-  margin: 1em 0;
-  border-radius: 10px;
-  border: 1px solid #6BC5AF;
-}
