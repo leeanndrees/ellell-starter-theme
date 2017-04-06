@@ -1,0 +1,56 @@
+/*
+Theme Name: Starter Theme
+Description: A bare-bones custom theme for breaking, fixing, & learning.
+Author: ellell & co.
+Author URI: http://ellell.co
+Version: 1.0
+*/
+
+/* A little padding & help for our layout */
+.site-header, .site-footer {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.site-content {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  padding-right: 3em;
+}
+
+.sidebar-right {
+  padding-left: 2em;
+}
+
+#comment {
+  display: block;
+}
+
+.comment .children {
+  list-style: none;
+}
+
+/* Main Navigation */
+.main-menu ul {
+  padding-left: 0;
+}
+
+.main-menu ul li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 1em;
+}
+
+/* Sidebar */
+li.widget {
+  list-style: none;
+}
+
+.widgettitle {
+  font-size: 25px;
+}
+
+/* Classes */
+.bg-color {
+  background-color: #eee;
+}
