@@ -55,6 +55,7 @@ padding: 0;}
 .site-header, .site-footer {
   padding-top: 2em;
   padding-bottom: 2em;
+  background-color: #bfbfbf;
 }
 
 .site-footer a {

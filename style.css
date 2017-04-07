@@ -6,15 +6,18 @@ Author URI: http://ellell.co
 Version: 1.0
 */
 
+
+
 /*********** Global Styles ***********/
 
 .site-header /* Let's give the header a background-color or background-image */ {
-
+   background-color: ;
 }
 
 .site-footer  /* Let's give the footer a background-color or background-image */ {
-
+   background-color: ;
 }
+
 
 /* Choose a font, color and size for default text */
 body {
@@ -48,11 +51,11 @@ h4 /* Does an H1 have a unique color? Add it here */ {
 
 /* Give the main navigation menu some color - text color and background color */
 .main-menu ul li a{
-
+   background-color: ;
 }
 
 .main-menu ul li a:hover {
-
+   background-color: ;
 }
 
 /*********** Content Styles - headings, pargraphs, text, images ************/
@@ -80,7 +83,7 @@ button:focus, html input[type=button]:focus, input[type=reset]:focus, input[type
 }
 
 
-/*********** Sidebar Styles ***********/
+/*********** Other Styles - Go Nuts! ***********/
 
 
 
