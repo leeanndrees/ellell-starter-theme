@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-04-06 22:48" -->
+<!-- generator="WordPress/4.7.3" created="2017-04-07 16:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Sample Website</title>
 	<link>http://localhost:8888/aiga-theme</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Thu, 06 Apr 2017 22:48:37 +0000</pubDate>
+	<pubDate>Fri, 07 Apr 2017 16:51:04 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:8888/aiga-theme</wp:base_site_url>
@@ -134,7 +134,7 @@
 		<dc:creator><![CDATA[ellellco]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/aiga-theme/?page_id=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img class="aligncenter wp-image-51" src="http://localhost:8888/aiga-theme/wp-content/uploads/2017/04/fisher-building-exterior-sunny.jpg" alt="fisher building exterior" width="700" height="525" />
+		<content:encoded><![CDATA[<img class="aligncenter wp-image-51" src="http://ellell.co/clients/aiga/fisher-building-exterior-sunny.jpg" alt="fisher building exterior" width="700" height="525" />
 
 Initially, architect Joseph Nathaniel French of <a href="https://en.wikipedia.org/wiki/Albert_Kahn_Associates" target="_blank">Albert Kahn Associates</a> planned for a complex of three buildings, with two 30-story structures flanking a 60-story tower. However, the Great Depression kept the project at one tower.
 
@@ -321,13 +321,13 @@ In June 2015, Southfield-based developer Redico LLC, in partnership with HFZ Cap
 		<description></description>
 		<content:encoded><![CDATA[The Fisher Building rises 30 stories with a roof height of 428 feet (130 m), a top floor height of 339 feet (103 m), and the spire reaching 444 feet (135 m). The building has 21 elevators. Albert Kahn and Associates designed the building with <a title="Joseph Nathaniel French" href="https://en.wikipedia.org/wiki/Joseph_Nathaniel_French">Joseph Nathaniel French</a> serving as chief architect. French took inspiration from <a title="Eliel Saarinen's Tribune Tower design" href="https://en.wikipedia.org/wiki/Eliel_Saarinen%27s_Tribune_Tower_design">Eliel Saarinen's Tribune Tower design</a> of 1922, seen in the emphasis on verticality and the <a title="Setback (architecture)" href="https://en.wikipedia.org/wiki/Setback_(architecture)">stepped-back</a> upper stories. The building is unlike any other Albert Kahn production. It has been called "Detroit's largest art object".
 
-<img class="aligncenter wp-image-53" src="http://localhost:8888/aiga-theme/wp-content/uploads/2017/04/fisher-building-doors.jpg" alt="" width="700" height="525" />
+<img class="aligncenter wp-image-53" src="http://ellell.co/clients/aiga/fisher-building-doors.jpg" alt="" width="700" height="525" />
 
 In 1929, the <a title="Architectural League of New York" href="https://en.wikipedia.org/wiki/Architectural_League_of_New_York">Architectural League of New York</a> honored the Fisher Building with a silver medal in architecture. The opulent three-story <a title="Barrel vault" href="https://en.wikipedia.org/wiki/Barrel_vault">barrel vaulted</a> lobby is constructed with forty different kinds of marble, decorated by Hungarian artist <a title="Géza Maróti" href="https://en.wikipedia.org/wiki/G%C3%A9za_Mar%C3%B3ti">Géza Maróti</a>, and is highly regarded by architects.
 
 The sculpture on the exterior of the building was supplied by several sculptors including Maróti, <a title="Corrado Parducci" href="https://en.wikipedia.org/wiki/Corrado_Parducci">Corrado Parducci</a>, Anthony De Lorenzo and <a title="Ulysses Ricci" href="https://en.wikipedia.org/wiki/Ulysses_Ricci">Ulysses Ricci</a>.
 
-[caption id="attachment_38" align="aligncenter" width="562"]<img class="size-full wp-image-38" src="http://localhost:8888/aiga-theme/wp-content/uploads/2017/04/art-object-building.jpg" alt="art object" width="562" height="316" /> Detroit's iconic Fisher building has an ornate interior full of marble, bronze and art deco design.[/caption]]]></content:encoded>
+[caption id="attachment_38" align="aligncenter" width="562"]<img class="size-full wp-image-38" src="http://ellell.co/clients/aiga/art-object-building.jpg" alt="art object" width="562" height="316" /> Detroit's iconic Fisher building has an ornate interior full of marble, bronze and art deco design.[/caption]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2017-04-06 21:40:26]]></wp:post_date>
@@ -1165,7 +1165,7 @@ As a new WordPress user, you should go to <a href="http://localhost:8888/aiga-th
 		<dc:creator><![CDATA[ellellco]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/aiga-theme/?p=9</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img class="alignnone size-medium wp-image-10" src="http://localhost:8888/aiga-theme/wp-content/uploads/2017/04/mkr-city-halfpipe.jpg" alt="MKR City Half Pipe at Fisher Building" width="1" height="1" /><img class="aligncenter wp-image-12 size-full" src="http://localhost:8888/aiga-theme/wp-content/uploads/2017/04/halfpipe-bicycle.jpg" alt="" width="749" height="929" />
+		<content:encoded><![CDATA[<img class="aligncenter wp-image-12 size-full" src="http://ellell.co/clients/aiga/halfpipe-bicycle.jpg" alt="" width="749" height="929" />
 
 Here’s something you don’t see every day.
 
@@ -1278,17 +1278,17 @@ Email: Kfarmer@redico.com
 		<dc:creator><![CDATA[ellellco]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/aiga-theme/?p=36</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img class="alignnone wp-image-38 size-full" src="http://localhost:8888/aiga-theme/wp-content/uploads/2017/04/art-object-building.jpg" alt="art object" width="562" height="316" />
+		<content:encoded><![CDATA[<img class="alignnone wp-image-38 size-full" src="http://ellell.co/clients/aiga/art-object-building.jpg" alt="art object" width="562" height="316" />
 <h3>It is an art object</h3>
 The seven Fisher brothers built the Fisher Building as a home for Fisher and Company, which had pioneered in making the closed automobile body. The brothers chose the best materials, the best location, and the best architect, <a href="http://www.michiganmodern.org/designers/albert-kahn" target="_blank">Albert Kahn.</a>
 <blockquote>The brothers reached out to Detroit’s most prolific architect at the time, Albert Kahn, and gave him “a blank check” to build “the most beautiful building in the world.”</blockquote>
 Kahn begins with an arcaded basement unit similar to the one he used in the earlier General Motors Building. Above that, however, the vertical piers rise unbroken to a tapered top, reflecting in dramatic terms the change in attitude toward high-rise design that was signaled by Saarinen's Tribune Tower.
 
-<img class="alignnone wp-image-37 size-full" src="http://localhost:8888/aiga-theme/wp-content/uploads/2017/04/old-fisher-building.jpg" alt="old fisher building" width="723" height="902" />
+<img class="alignnone wp-image-37 size-full" src="http://ellell.co/clients/aiga/old-fisher-building.jpg" alt="old fisher building" width="723" height="902" />
 <h3>Architectural Significance</h3>
 The Fisher and New Center Buildings together are architecturally significant as a superbly designed complex exemplifying some of the finest craftsmanship and artistry displayed by any Art Deco style buildings constructed in the United States in the 1920s. The Fisher Building is perhaps the most significant structure of its kind ever designed by master architect Albert Kahn.
 
-<img class="aligncenter wp-image-52" src="http://localhost:8888/aiga-theme/wp-content/uploads/2017/04/murals-inside-fisher-building-1024x682.jpg" alt="murals inside fisher building" width="700" height="466" />
+<img class="aligncenter wp-image-52" src="http://ellell.co/clients/aiga/murals-inside-fisher-building-1024x682.jpg" alt="murals inside fisher building" width="700" height="466" />
 <h3>Features Stunning Artwork</h3>
 The Fisher building lavishly exhibits the work of several noted artists including <a href="http://en.wikipedia.org/wiki/G%C3%A9za_Mar%C3%B3ti" target="_blank">Geza Maroti</a>, colleague of Eliel Saarinen and an important figure in the development of the European arts and crafts movement of the teens and twenties, and the firms of <a href="http://en.wikipedia.org/wiki/Ulysses_Ricci" target="_blank">Ricci</a> and Zari and Anthony DiLorenzo of New York, who designed and executed much of the plasterwork, stone carving and ornamental bronze work for the Fisher Building as well as other important structures around the nation in the 1920s. It is historically significant as a local landmark and for its long association with the Fisher family and the development of the American automobile industry.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
