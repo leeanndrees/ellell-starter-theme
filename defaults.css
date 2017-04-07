@@ -1,6 +1,11 @@
 
 /*********** Some Resets & Default Styles ***********/
 
+p {
+    margin: 0 0 15px;
+    line-height: 2;
+}
+
 .main-menu ul {
   padding-left: 0;
 }
@@ -9,7 +14,6 @@
   color:#fff;
   list-style: none;
   display: inline-block;
-  padding: .3em 1em;
   margin: .5em;
  }
 
@@ -32,15 +36,20 @@
 }
 
 .bg-color { 
-  background-color: #999;
+  background-color: #bfbfbf;
 }
 
 .widgettitle {
   font-size: 25px;
 }
 
-li.widget {
-  list-style: none;
+.widget ul { 
+margin: 10px 0;
+padding: 0;}
+
+.widget li, li.widget {
+    list-style: none;
+    margin: 20px 0;
 }
 
 .site-header, .site-footer {
@@ -48,8 +57,8 @@ li.widget {
   padding-bottom: 2em;
 }
 
-.site-footer a /* Does the text in the footer need to be white? Then add color: #fff; below */ {
-
+.site-footer a {
+color: #fff;
 }
 
 .site-content {

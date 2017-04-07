@@ -12,7 +12,7 @@
 </head>
 
 <body>
-<header class="site-header container-fluid bg-color text-center">
+<header class="site-header container-fluid bg-color">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
