@@ -16,7 +16,6 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <p>This is the header template (header.php)</p>
         <h1><a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a></h1>
         <?php wp_nav_menu( array( 'theme_location' => 'main-menu', 'container_class' => 'main-menu' ) ); ?>
       </div>

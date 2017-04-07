@@ -1,6 +1,5 @@
 <?php get_header(); ?>
 <div class="container site-content">
-<?php echo "This is single.php"; ?>
 <div class="row">
   <main class="col-sm-8">
     <?php while(have_posts()) : the_post(); ?>
